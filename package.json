@@ -5,5 +5,9 @@
   "scripts": {
     "build": "echo 'No build needed'"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "typescript": "~5.9.2",
+    "prettier": "^3.8.1"
+  }
 }
