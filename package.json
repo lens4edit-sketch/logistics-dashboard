@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "echo 'Build skipped'"
+    "build": "npm run build"
   },
   "private": true,
   "devDependencies": {
